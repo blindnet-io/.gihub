@@ -5,9 +5,9 @@
 
 <br />
 
-<p align="center">:rocket: <a href="https://blindnet.dev/docs/quickstart">Get started with blindnet SDK</a></p>
+<p align="center">:rocket: <a href="https://blindnet.dev/docs/tutorial">Get started with blindnet SDK</a></p>
 
-<p align=center>:mega: <a href="https://blindnet.io/manifesto">Read our Manifesto</a></p>
+<p align=center>:mega: <a href="https://github.com/blindnet-io/product-management/blob/main/refs/Manifesto.md">Read our Manifesto</a></p>
 
 <p align=center>:raising_hand: <a href="https://github.com/blindnet-io/devrel-management/issues/new?assignees=noelmace&labels=request%2Ctriage&template=request.yml&title=%5BRequest%5D%3A+">Make a wish :star2:</p>
 
